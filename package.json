@@ -1,13 +1,13 @@
 {
   "name": "nestjs-cls-root",
   "version": "0.0.0",
-  "description": "A continuation-local storage module compatible with NestJS's dependency injection.",
-  "author": "papooch",
+  "description": "Fork https://github.com/Papooch/nestjs-cls",
+  "author": "gring2",
   "license": "MIT",
   "engines": {
     "node": ">=18"
   },
-  "repository": "https://github.com/Papooch/nestjs-cls",
+  "repository": "https://github.com/gring2/nestjs-cls",
   "private": true,
   "homepage": "https://papooch.github.io/nestjs-cls/",
   "keywords": [
